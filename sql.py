@@ -1,5 +1,5 @@
 import sqlite3
-import excel_header as excel
+import loadrite_3180_class as excel
 
 class my_db_class():
     def __init__(self, db_name):

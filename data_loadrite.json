@@ -1,0 +1,16 @@
+{
+    "Materiales"    : ["Cobre", "Plata", "Oro"],
+    "Operation"     : ["Add", "Subtract", "Undo"],
+    "Loading"       : ["Loading Started", "Loading Stop"],
+    "Headers"       : [0, 1, 2, 3, 4],
+    "Data"          : {
+        "Funcion": "Clear",
+        "Secuencia": "0",
+        "Peso": "1",
+        "Actividad": "Marcobre",
+        "Origen": "Bucket 1",
+        "Camion": "AESA-656",
+        "Producto": "Mercurio",
+        "Operador": "AESA-OP1"
+    }
+}
